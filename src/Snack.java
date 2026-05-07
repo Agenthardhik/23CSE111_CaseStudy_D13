@@ -1,5 +1,3 @@
-package oops;
-
 class Snack {
     private String name;
     private double price;
